@@ -4,7 +4,6 @@
     padding: 0;
 }
 
-
 .container {
     display: flex;
     flex-direction: column;
@@ -15,6 +14,7 @@
     height: 20rem;
     text-align: center;
     border-radius: 0.2rem;
+    box-shadow: 2px 2px 3px rgb(169, 169, 169);
 }
 
 h1 {
@@ -25,13 +25,14 @@ div {
     text-align: center;
     margin: 0.5rem 0 0.2rem;
 }
+.nomeAluno {
+    margin-right: 58px;
+}
+
 #botao {
     margin: 1rem;
 }
 
-
 #botao {
     background-color: rgb(220, 220, 220);
-    
 }
-

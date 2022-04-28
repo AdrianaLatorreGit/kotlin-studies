@@ -11,7 +11,7 @@ const aprovado = (media) => {
     if (media >= 7) {
         return "Aprovado";
     } else if (media >= 5) {
-        return "Recuperação";
+        return " de Recuperação";
     } else {
         return "Reprovado";
     }
