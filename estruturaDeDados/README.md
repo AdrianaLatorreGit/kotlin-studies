@@ -1,4 +1,4 @@
-package com.adrianalatorre.estruturadedados_estruturaderepeticao
+package com.adrianalatorre.estruturadedados
 
 class array {
 }
