@@ -89,3 +89,11 @@ fun main() {
     //Retorna a lista com todos os valores
     mutableMap.keys
 }
+
+![Screenshot from 2022-10-28 12-10-07](https://user-images.githubusercontent.com/101880897/198673376-5a8a0215-5006-43e3-a37f-bbad652b5a73.png)
+
+![Screenshot from 2022-10-28 12-11-44](https://user-images.githubusercontent.com/101880897/198673384-17bb377e-adf6-434f-ac42-d7964c60c5ac.png)
+
+![Screenshot from 2022-10-28 12-18-35](https://user-images.githubusercontent.com/101880897/198673386-5ee5b361-55d0-4ee8-90f4-bf244a2200de.png)
+
+
