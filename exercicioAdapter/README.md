@@ -82,6 +82,18 @@ fun main() {
 
     val componenteListagem = ComponenteListagem()
     componenteListagem.adaptador = MeuAdaptador(listaItens)
-    componenteListagem.executar()
+    componenteListagem.executar()![Screenshot from 2023-03-21 11-00-39](https://user-images.githubusercontent.com/101880897/226630247-b71cc0ee-4455-4df0-91ce-063af8ab15fb.png)
+
 
 }
+
+
+![Screenshot from 2023-03-21 11-00-39](https://user-images.githubusercontent.com/101880897/226630369-99e6d176-e499-44ef-b555-6027ec920da3.png)
+
+
+
+
+
+
+
+
